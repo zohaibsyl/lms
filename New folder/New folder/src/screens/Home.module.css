@@ -1,0 +1,12 @@
+.container {
+    display: table-column;
+    justify-content: center; 
+    align-items: center;     
+  font-size: 30px;
+
+
+}
+h1 {
+    font-size: 2rem;         /* Example font size */
+    color: #333;             /* Example text color */
+  }

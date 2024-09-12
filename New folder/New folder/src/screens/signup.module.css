@@ -1,0 +1,10 @@
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 60px;
+    font-size: 28px;
+    width: 900px;
+    height: 600px;
+    border: 2px solid black;
+    background-color: rgb(247, 243, 238);}
